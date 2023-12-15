@@ -46,3 +46,4 @@ fs.writeFile('./quiz.txt', '푸바오와 이별 채비하는 강바오\n ...', (
         console.error(err);
     });
 });
+// 에러..
